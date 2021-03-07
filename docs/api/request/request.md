@@ -69,6 +69,7 @@ uni.request({
         this.text = 'request success';
     }
 });
+已经不是success了，需要用.then(res=>{});大坑
 ```
 
 **返回值**
